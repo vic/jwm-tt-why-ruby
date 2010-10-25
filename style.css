@@ -1,0 +1,51 @@
+body, .slide, .content, #preso, #footer, #help {
+    color: #e0dedb;
+    background-color: #201f1f;
+}
+.comment {
+    /* font-lock-comment-face */
+    color: #ff7f24;
+}
+.highlight {
+    /* highlight */
+    background-color: #556b2f;
+}
+.org-level-1, h1 {
+    /* org-level-1 */
+    color: #87cefa;
+}
+.org-level-2, h2 {
+    /* org-level-2 */
+    color: #eedd82;
+}
+.org-level-3, h3 {
+    /* org-level-3 */
+    color: #00ffff;
+}
+.org-level-4, h4 {
+    /* org-level-4 */
+    color: #ff7f24;
+}
+.org-level-5, h5 {
+    /* org-level-5 */
+    color: #98fb98;
+}
+
+.slide {
+    border: 0;
+}
+#jwm-logo {
+    position: absolute;
+    right:  10px;
+    bottom: 10px;
+    height: 128px;
+    width: 300px;
+    z-index: 99999;
+}
+#ruby-logo {
+    position: absolute;
+    left:  10px;
+    bottom: 10px;
+    height: 128px;
+    width: 128px;
+}
