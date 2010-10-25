@@ -1,0 +1,29 @@
+This repository contains a ShowOff presentation for "The Why of Ruby" TechTalk given at JWM Solutions.
+
+To serve the presentation install
+
+  $ gem install showoff
+
+And from the root directory execute
+
+  $ showoff serve
+
+You can modify the slides at the .md files.
+
+-- 
+
+Audience:
+  Executive
+
+Objective:
+
+  Introduce the Ruby language as an innovate technology.
+
+  Show how some companies have reached bussiness success by using
+  new technologies and encouraging people to create them. 
+
+  Share some lessons of the benefits a company can have from
+  opensourcing software.
+
+  Motivate developers to learn more languages and become better
+  and more passionate about what they do.
